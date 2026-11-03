@@ -140,9 +140,17 @@ def estado_rios(rios, caudal, umbrales, hoy):
         q = max(h["q"] if h else 0, m7["q"] if m7 else 0)
         fiable = bool(rio.get("fiable", True)) and h is not None and 2 in u
         n = -1 if not fiable else 3 if q >= u[25] else 2 if q >= u[10] else 1 if q >= u[2] else 0
+        # Tendencia: mediana pronosticada a 3 días frente al caudal de hoy
+        q3 = prox[2]["q"] if len(prox) >= 3 else None
+        tendencia = None
+        if h and q3 is not None and h["q"]:
+            r = q3 / h["q"]
+            tendencia = "subiendo" if r > 1.1 else "bajando" if r < 0.9 else "estable"
         salida.append({
             "rio_id": rio["rio_id"], "nombre": rio["nombre"], "fiable": fiable,
+            "lat": rio.get("lat"), "lon": rio.get("lon"),
             "q_hoy": h["q"] if h else None, "q_max7": m7["q"] if m7 else None, "fecha_max7": m7["fecha"] if m7 else None,
+            "q_3d": q3, "tendencia": tendencia,
             "q2": u.get(2), "q10": u.get(10), "q25": u.get(25),
             "pct_q2": round(q / u[2], 3) if 2 in u else None,
             "nivel": "sin dato fiable" if n < 0 else NIVELES[n],
@@ -154,17 +162,19 @@ def estado_rios(rios, caudal, umbrales, hoy):
 def resumen(estado, lluvia_acum):
     ok = [r for r in estado if r["fiable"]]
     n_rio = max([NIVELES.index(r["nivel"]) for r in ok] or [0])
-    critico = max(ok, key=lambda r: r["pct_q2"] or 0) if ok else None
+    critico = max(ok, key=lambda r: (NIVELES.index(r["nivel"]), r["pct_q2"] or 0)) if ok else None
     ll24 = max(f["mm"] for f in lluvia_acum if f["ventana"] == "24h")
     ll72 = max(f["mm"] for f in lluvia_acum if f["ventana"] == "72h")
     n_ll = 2 if (n_rio >= 1 and ll72 >= R72_NARANJA) else 1 if (ll72 >= R72_AMARILLO or ll24 >= R24_AMARILLO) else 0
     n = max(n_rio, n_ll)
+    crecida = {1: "una crecida común", 2: "una crecida fuerte", 3: "una crecida muy fuerte"}
     if n == 0:
-        motivo = "que todos los ríos siguen bajo su caudal de 2 años y la lluvia bajo sus umbrales"
+        motivo = "Todos los ríos van dentro de lo normal y no ha llovido fuerte."
     elif n_rio >= n_ll:
-        motivo = "el caudal del " + critico["nombre"] + " frente a sus periodos de retorno"
+        motivo = ("El " + critico["nombre"] + " lleva o llevará esta semana tanta agua como "
+                  + crecida[NIVELES.index(critico["nivel"])] + ".")
     else:
-        motivo = "la lluvia acumulada; ningún río pasa todavía su caudal de 2 años"
+        motivo = "Ha llovido fuerte en los últimos días, aunque los ríos todavía van dentro de lo normal."
     return {
         "nivel": NIVELES[n], "motivo": motivo,
         "rios_alerta": sum(1 for r in ok if NIVELES.index(r["nivel"]) >= 1), "n_rios": len(ok),
