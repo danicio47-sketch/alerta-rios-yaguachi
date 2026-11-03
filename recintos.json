@@ -1,0 +1,712 @@
+[
+    {
+        "recinto":  "General Pedro J. Montero (Boliche)",
+        "parroquia":  "General Pedro J. Montero",
+        "rio_id":  "bulubulu",
+        "rio":  "Río Bulubulu",
+        "poblacion":  1105,
+        "poblacion_influencia":  2950,
+        "exposicion":  "alta",
+        "criterio":  "HAND 0,6 m · a 284 m del río"
+    },
+    {
+        "recinto":  "Buena Esperanza",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  675,
+        "poblacion_influencia":  675,
+        "exposicion":  "alta",
+        "criterio":  "HAND 0,0 m · a 1,4 km del río"
+    },
+    {
+        "recinto":  "La Angélica",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  368,
+        "poblacion_influencia":  368,
+        "exposicion":  "alta",
+        "criterio":  "HAND 0,5 m · a 1,4 km del río"
+    },
+    {
+        "recinto":  "Nueva Vida",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  363,
+        "poblacion_influencia":  510,
+        "exposicion":  "alta",
+        "criterio":  "HAND 0,0 m · a 509 m del río"
+    },
+    {
+        "recinto":  "Cóndor (Km. 25)",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "milagro",
+        "rio":  "Río Milagro",
+        "poblacion":  49,
+        "poblacion_influencia":  103,
+        "exposicion":  "alta",
+        "criterio":  "HAND 0,0 m · a 792 m del río"
+    },
+    {
+        "recinto":  "Cáliz 1",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "babahoyo",
+        "rio":  "Río Babahoyo",
+        "poblacion":  0,
+        "poblacion_influencia":  217,
+        "exposicion":  "alta",
+        "criterio":  "HAND 0,4 m · a 614 m del río"
+    },
+    {
+        "recinto":  "María Eugenia",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  106,
+        "exposicion":  "alta",
+        "criterio":  "HAND 0,4 m · a 671 m del río"
+    },
+    {
+        "recinto":  "San Jacinto de Yaguachi",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "yaguachi",
+        "rio":  "Río Yaguachi",
+        "poblacion":  2383,
+        "poblacion_influencia":  18277,
+        "exposicion":  "media",
+        "criterio":  "HAND 4,2 m · a 283 m del río"
+    },
+    {
+        "recinto":  "El Deseo",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  1380,
+        "poblacion_influencia":  1996,
+        "exposicion":  "media",
+        "criterio":  "HAND 1,1 m · a 1,8 km del río"
+    },
+    {
+        "recinto":  "Reyna de los Cielos",
+        "parroquia":  "Virgen De Fátima",
+        "rio_id":  "bulubulu",
+        "rio":  "Río Bulubulu",
+        "poblacion":  1212,
+        "poblacion_influencia":  2252,
+        "exposicion":  "media",
+        "criterio":  "HAND 0,2 m · a 2,3 km del río"
+    },
+    {
+        "recinto":  "Barrio Lindo",
+        "parroquia":  "General Pedro J. Montero",
+        "rio_id":  "bulubulu",
+        "rio":  "Río Bulubulu",
+        "poblacion":  1113,
+        "poblacion_influencia":  5239,
+        "exposicion":  "media",
+        "criterio":  "HAND 4,8 m · a 282 m del río"
+    },
+    {
+        "recinto":  "El Tintal",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  897,
+        "poblacion_influencia":  2339,
+        "exposicion":  "media",
+        "criterio":  "HAND 0,5 m · a 2,3 km del río"
+    },
+    {
+        "recinto":  "Finalín",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  885,
+        "poblacion_influencia":  4068,
+        "exposicion":  "media",
+        "criterio":  "HAND 0,0 m · a 2,4 km del río"
+    },
+    {
+        "recinto":  "Yaguachi Viejo",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  836,
+        "poblacion_influencia":  866,
+        "exposicion":  "media",
+        "criterio":  "HAND 1,5 m · a 161 m del río"
+    },
+    {
+        "recinto":  "San Fernando",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  679,
+        "poblacion_influencia":  708,
+        "exposicion":  "media",
+        "criterio":  "HAND 3,0 m · a 131 m del río"
+    },
+    {
+        "recinto":  "Vuelta Larga",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  525,
+        "poblacion_influencia":  531,
+        "exposicion":  "media",
+        "criterio":  "HAND 2,8 m · a 137 m del río"
+    },
+    {
+        "recinto":  "San Juan",
+        "parroquia":  "General Pedro J. Montero",
+        "rio_id":  "boliche",
+        "rio":  "Río Boliche",
+        "poblacion":  367,
+        "poblacion_influencia":  367,
+        "exposicion":  "media",
+        "criterio":  "HAND 5,8 m · a 148 m del río"
+    },
+    {
+        "recinto":  "Buena Fe",
+        "parroquia":  "General Pedro J. Montero",
+        "rio_id":  "bulubulu",
+        "rio":  "Río Bulubulu",
+        "poblacion":  346,
+        "poblacion_influencia":  620,
+        "exposicion":  "media",
+        "criterio":  "HAND 3,9 m · a 49 m del río"
+    },
+    {
+        "recinto":  "La Chiquita",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  292,
+        "poblacion_influencia":  960,
+        "exposicion":  "media",
+        "criterio":  "HAND 1,2 m · a 1,6 km del río"
+    },
+    {
+        "recinto":  "La Inmaculada",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  210,
+        "poblacion_influencia":  419,
+        "exposicion":  "media",
+        "criterio":  "HAND 1,8 m · a 878 m del río"
+    },
+    {
+        "recinto":  "Carmela",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "milagro",
+        "rio":  "Río Milagro",
+        "poblacion":  132,
+        "poblacion_influencia":  615,
+        "exposicion":  "media",
+        "criterio":  "HAND 0,6 m · a 2,0 km del río"
+    },
+    {
+        "recinto":  "Samborondon",
+        "parroquia":  "General Pedro J. Montero",
+        "rio_id":  "boliche",
+        "rio":  "Río Boliche",
+        "poblacion":  122,
+        "poblacion_influencia":  122,
+        "exposicion":  "media",
+        "criterio":  "HAND 6,4 m · a 104 m del río"
+    },
+    {
+        "recinto":  "Playanas",
+        "parroquia":  "General Pedro J. Montero",
+        "rio_id":  "boliche",
+        "rio":  "Río Boliche",
+        "poblacion":  119,
+        "poblacion_influencia":  119,
+        "exposicion":  "media",
+        "criterio":  "HAND 5,5 m · a 135 m del río"
+    },
+    {
+        "recinto":  "San Martín de Porres",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "yaguachi",
+        "rio":  "Río Yaguachi",
+        "poblacion":  100,
+        "poblacion_influencia":  100,
+        "exposicion":  "media",
+        "criterio":  "HAND 4,5 m · a 176 m del río"
+    },
+    {
+        "recinto":  "El Recuerdo",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "yaguachi",
+        "rio":  "Río Yaguachi",
+        "poblacion":  86,
+        "poblacion_influencia":  164,
+        "exposicion":  "media",
+        "criterio":  "HAND 3,6 m · a 110 m del río"
+    },
+    {
+        "recinto":  "Las Mercedes",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  86,
+        "poblacion_influencia":  86,
+        "exposicion":  "media",
+        "criterio":  "HAND 4,6 m · a 158 m del río"
+    },
+    {
+        "recinto":  "Nuevo Cóndor",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "milagro",
+        "rio":  "Río Milagro",
+        "poblacion":  72,
+        "poblacion_influencia":  108,
+        "exposicion":  "media",
+        "criterio":  "HAND 1,2 m · a 118 m del río"
+    },
+    {
+        "recinto":  "María Luisa",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "yaguachi",
+        "rio":  "Río Yaguachi",
+        "poblacion":  72,
+        "poblacion_influencia":  162,
+        "exposicion":  "media",
+        "criterio":  "HAND 4,4 m · a 66 m del río"
+    },
+    {
+        "recinto":  "Santa Rita",
+        "parroquia":  "Virgen De Fátima",
+        "rio_id":  "bulubulu",
+        "rio":  "Río Bulubulu",
+        "poblacion":  48,
+        "poblacion_influencia":  859,
+        "exposicion":  "media",
+        "criterio":  "HAND 8,7 m · a 137 m del río"
+    },
+    {
+        "recinto":  "Bodeguita",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "yaguachi",
+        "rio":  "Río Yaguachi",
+        "poblacion":  0,
+        "poblacion_influencia":  293,
+        "exposicion":  "media",
+        "criterio":  "HAND 3,0 m · a 114 m del río"
+    },
+    {
+        "recinto":  "El Deseo de Adentro",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "media",
+        "criterio":  "HAND 0,0 m · a 1,7 km del río"
+    },
+    {
+        "recinto":  "La Cepa",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "media",
+        "criterio":  "HAND 1,4 m · a 1,3 km del río"
+    },
+    {
+        "recinto":  "María Cleotilde",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "milagro",
+        "rio":  "Río Milagro",
+        "poblacion":  0,
+        "poblacion_influencia":  1033,
+        "exposicion":  "media",
+        "criterio":  "HAND 4,7 m · a 84 m del río"
+    },
+    {
+        "recinto":  "Cascol",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "yaguachi",
+        "rio":  "Río Yaguachi",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "media",
+        "criterio":  "HAND 0,6 m · a 2,9 km del río"
+    },
+    {
+        "recinto":  "Guajala",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "babahoyo",
+        "rio":  "Río Babahoyo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "media",
+        "criterio":  "HAND 0,3 m · a 2,1 km del río"
+    },
+    {
+        "recinto":  "La Delicia",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "babahoyo",
+        "rio":  "Río Babahoyo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "media",
+        "criterio":  "HAND 0,6 m · a 2,8 km del río"
+    },
+    {
+        "recinto":  "San Antonio",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  382,
+        "exposicion":  "media",
+        "criterio":  "HAND 1,2 m · a 2,0 km del río"
+    },
+    {
+        "recinto":  "La Violeta",
+        "parroquia":  "General Pedro J. Montero",
+        "rio_id":  "boliche",
+        "rio":  "Río Boliche",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "media",
+        "criterio":  "HAND 5,7 m · a 106 m del río"
+    },
+    {
+        "recinto":  "Los Ángeles",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  53,
+        "exposicion":  "media",
+        "criterio":  "HAND 8,0 m · a 141 m del río"
+    },
+    {
+        "recinto":  "Villa Carmen",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  421,
+        "exposicion":  "media",
+        "criterio":  "HAND 1,4 m · a 54 m del río"
+    },
+    {
+        "recinto":  "Bélgica",
+        "parroquia":  "Virgen De Fátima",
+        "rio_id":  "boliche",
+        "rio":  "Río Boliche",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "media",
+        "criterio":  "HAND 7,7 m · a 99 m del río"
+    },
+    {
+        "recinto":  "La Puntilla",
+        "parroquia":  "Virgen De Fátima",
+        "rio_id":  "boliche",
+        "rio":  "Río Boliche",
+        "poblacion":  0,
+        "poblacion_influencia":  47,
+        "exposicion":  "media",
+        "criterio":  "HAND 5,1 m · a 91 m del río"
+    },
+    {
+        "recinto":  "San Alejo",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "media",
+        "criterio":  "HAND 2,0 m · a 3,0 km del río"
+    },
+    {
+        "recinto":  "Chanchan",
+        "parroquia":  "General Pedro J. Montero",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  79,
+        "exposicion":  "media",
+        "criterio":  "HAND 4,1 m · a 52 m del río"
+    },
+    {
+        "recinto":  "Cruce Bueno",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "media",
+        "criterio":  "HAND 4,6 m · a 110 m del río"
+    },
+    {
+        "recinto":  "Cáliz 2",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "babahoyo",
+        "rio":  "Río Babahoyo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "media",
+        "criterio":  "HAND 2,6 m · a 2,9 km del río"
+    },
+    {
+        "recinto":  "Puerto La Chiquita",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  7,
+        "exposicion":  "media",
+        "criterio":  "HAND 4,2 m · a 87 m del río"
+    },
+    {
+        "recinto":  "Soledad",
+        "parroquia":  "General Pedro J. Montero",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "media",
+        "criterio":  "HAND 2,7 m · a 909 m del río"
+    },
+    {
+        "recinto":  "Nueva Colonia",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "bulubulu",
+        "rio":  "Río Bulubulu",
+        "poblacion":  1500,
+        "poblacion_influencia":  2128,
+        "exposicion":  "baja",
+        "criterio":  "HAND 3,9 m · a 2,4 km del río"
+    },
+    {
+        "recinto":  "Virgen de Fátima",
+        "parroquia":  "Virgen De Fátima",
+        "rio_id":  "bulubulu",
+        "rio":  "Río Bulubulu",
+        "poblacion":  1350,
+        "poblacion_influencia":  10139,
+        "exposicion":  "baja",
+        "criterio":  "HAND 5,8 m · a 743 m del río"
+    },
+    {
+        "recinto":  "Estrella del Campo",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "bulubulu",
+        "rio":  "Río Bulubulu",
+        "poblacion":  1029,
+        "poblacion_influencia":  1232,
+        "exposicion":  "baja",
+        "criterio":  "HAND 0,1 m · a 5,0 km del río"
+    },
+    {
+        "recinto":  "El Papayo (Km. 13)",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  644,
+        "poblacion_influencia":  1820,
+        "exposicion":  "baja",
+        "criterio":  "HAND 1,4 m · a 6,3 km del río"
+    },
+    {
+        "recinto":  "Nueva Gloria",
+        "parroquia":  "General Pedro J. Montero",
+        "rio_id":  "boliche",
+        "rio":  "Río Boliche",
+        "poblacion":  315,
+        "poblacion_influencia":  818,
+        "exposicion":  "baja",
+        "criterio":  "HAND 5,4 m · a 1,0 km del río"
+    },
+    {
+        "recinto":  "Cristo Rey",
+        "parroquia":  "General Pedro J. Montero",
+        "rio_id":  "boliche",
+        "rio":  "Río Boliche",
+        "poblacion":  292,
+        "poblacion_influencia":  1079,
+        "exposicion":  "baja",
+        "criterio":  "HAND 7,1 m · a 1,3 km del río"
+    },
+    {
+        "recinto":  "María Clementina",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "babahoyo",
+        "rio":  "Río Babahoyo",
+        "poblacion":  240,
+        "poblacion_influencia":  281,
+        "exposicion":  "baja",
+        "criterio":  "HAND 3,8 m · a 712 m del río"
+    },
+    {
+        "recinto":  "4 de Mayo",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  117,
+        "poblacion_influencia":  117,
+        "exposicion":  "baja",
+        "criterio":  "HAND 5,6 m · a 1,9 km del río"
+    },
+    {
+        "recinto":  "Caimito",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "yaguachi",
+        "rio":  "Río Yaguachi",
+        "poblacion":  16,
+        "poblacion_influencia":  285,
+        "exposicion":  "baja",
+        "criterio":  "HAND 7,3 m · a 8,8 km del río"
+    },
+    {
+        "recinto":  "Buenos Aires No.2",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "bulubulu",
+        "rio":  "Río Bulubulu",
+        "poblacion":  11,
+        "poblacion_influencia":  1172,
+        "exposicion":  "baja",
+        "criterio":  "HAND 5,7 m · a 3,6 km del río"
+    },
+    {
+        "recinto":  "La Palmá",
+        "parroquia":  "Virgen De Fátima",
+        "rio_id":  "bulubulu",
+        "rio":  "Río Bulubulu",
+        "poblacion":  3,
+        "poblacion_influencia":  1007,
+        "exposicion":  "baja",
+        "criterio":  "HAND 3,0 m · a 3,8 km del río"
+    },
+    {
+        "recinto":  "Las Boyas",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "yaguachi",
+        "rio":  "Río Yaguachi",
+        "poblacion":  0,
+        "poblacion_influencia":  1032,
+        "exposicion":  "baja",
+        "criterio":  "HAND 0,9 m · a 10,5 km del río"
+    },
+    {
+        "recinto":  "Otoño",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "babahoyo",
+        "rio":  "Río Babahoyo",
+        "poblacion":  0,
+        "poblacion_influencia":  null,
+        "exposicion":  "baja",
+        "criterio":  "HAND 0,0 m · a 12,0 km del río"
+    },
+    {
+        "recinto":  "Jaboncillo",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  743,
+        "exposicion":  "baja",
+        "criterio":  "HAND 0,0 m · a 4,2 km del río"
+    },
+    {
+        "recinto":  "Paraíso de los Guaques",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "milagro",
+        "rio":  "Río Milagro",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "baja",
+        "criterio":  "HAND 0,0 m · a 5,0 km del río"
+    },
+    {
+        "recinto":  "Santa Rosa No.2",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "baja",
+        "criterio":  "HAND 0,0 m · a 3,4 km del río"
+    },
+    {
+        "recinto":  "Casiguana",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "babahoyo",
+        "rio":  "Río Babahoyo",
+        "poblacion":  0,
+        "poblacion_influencia":  299,
+        "exposicion":  "baja",
+        "criterio":  "HAND 2,0 m · a 6,6 km del río"
+    },
+    {
+        "recinto":  "Creo en Dios",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "baja",
+        "criterio":  "HAND 2,3 m · a 5,1 km del río"
+    },
+    {
+        "recinto":  "Redondel la Toma",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "babahoyo",
+        "rio":  "Río Babahoyo",
+        "poblacion":  0,
+        "poblacion_influencia":  507,
+        "exposicion":  "baja",
+        "criterio":  "HAND 2,0 m · a 6,8 km del río"
+    },
+    {
+        "recinto":  "Pampa del Guasmo",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "bulubulu",
+        "rio":  "Río Bulubulu",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "baja",
+        "criterio":  "HAND 2,4 m · a 3,0 km del río"
+    },
+    {
+        "recinto":  "Buenos Aires No.1",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "baja",
+        "criterio":  "HAND 2,9 m · a 3,1 km del río"
+    },
+    {
+        "recinto":  "La Providencia",
+        "parroquia":  "San Jacinto De Yaguachi",
+        "rio_id":  "babahoyo",
+        "rio":  "Río Babahoyo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "baja",
+        "criterio":  "HAND 3,3 m · a 2,3 km del río"
+    },
+    {
+        "recinto":  "Santa Rosa No.1",
+        "parroquia":  "Yaguachi Viejo",
+        "rio_id":  "chimbo",
+        "rio":  "Río Chimbo",
+        "poblacion":  0,
+        "poblacion_influencia":  0,
+        "exposicion":  "baja",
+        "criterio":  "HAND 4,8 m · a 2,0 km del río"
+    }
+]

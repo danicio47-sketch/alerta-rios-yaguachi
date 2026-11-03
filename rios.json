@@ -1,0 +1,74 @@
+[
+    {
+        "rio_id":  "yaguachi",
+        "nombre":  "Río Yaguachi",
+        "lat":  -2.125,
+        "lon":  -79.725,
+        "punto_control":  "P01",
+        "fiable":  true,
+        "nota":  "Cauce del Yaguachi junto a la cabecera, aguas abajo de la union Chimbo-Milagro; su media iguala Chimbo + Milagro."
+    },
+    {
+        "rio_id":  "chimbo",
+        "nombre":  "Río Chimbo",
+        "lat":  -2.175,
+        "lon":  -79.675,
+        "punto_control":  "P05",
+        "fiable":  true,
+        "nota":  "Chimbo en Yaguachi Viejo - Vuelta Larga, antes de recibir al Milagro; las celdas aguas arriba hasta Payo dan la misma media."
+    },
+    {
+        "rio_id":  "babahoyo",
+        "nombre":  "Río Babahoyo",
+        "lat":  -1.975,
+        "lon":  -79.775,
+        "punto_control":  "P03",
+        "fiable":  true,
+        "nota":  "Babahoyo en el limite norte con Samborondon, aguas arriba de la confluencia con el Yaguachi (aguas abajo la celda sube a ~2.190 m3/s de media 2020-24)."
+    },
+    {
+        "rio_id":  "milagro",
+        "nombre":  "Río Milagro",
+        "lat":  -2.125,
+        "lon":  -79.675,
+        "punto_control":  "P07",
+        "fiable":  true,
+        "nota":  "Milagro en Condor (Km 25), entrada al canton; es la celda de mayor caudal del tramo y su aporte cuadra con Yaguachi - Chimbo. Rio chico para 5 km: usar con cautela."
+    },
+    {
+        "rio_id":  "bulubulu",
+        "nombre":  "Río Bulubulu",
+        "lat":  -2.275,
+        "lon":  -79.625,
+        "punto_control":  "P08",
+        "fiable":  true,
+        "nota":  "Bulubulu en Boliche (Gral. Pedro J. Montero); en GloFAS es el mismo cauce que sigue como Boliche, no es independiente de ese punto."
+    },
+    {
+        "rio_id":  "boliche",
+        "nombre":  "Río Boliche",
+        "lat":  -2.275,
+        "lon":  -79.725,
+        "punto_control":  "P09",
+        "fiable":  true,
+        "nota":  "Boliche en el limite sur (sector Culebras), antes de recibir al Culebras; es el curso bajo del Bulubulu en el modelo."
+    },
+    {
+        "rio_id":  "culebras",
+        "nombre":  "Río Culebras",
+        "lat":  -2.325,
+        "lon":  -79.675,
+        "punto_control":  null,
+        "fiable":  true,
+        "nota":  "Culebras en el limite sur, fila de celdas -2,325 con 20-23 m3/s continuos que entran al Boliche en -2,325/-79,775, donde esta la confluencia real (-2,309/-79,732). Sin punto de control previo."
+    },
+    {
+        "rio_id":  "payo",
+        "nombre":  "Río Payo",
+        "lat":  -2.275,
+        "lon":  -79.525,
+        "punto_control":  null,
+        "fiable":  false,
+        "nota":  "Payo (11,8 km, limite este): la celda da ~5 m3/s de media, menos que cualquier vecina con cauce; a 5 km GloFAS no resuelve un rio de este tamano y la celda puede ser drenaje generico. No usar para decisiones."
+    }
+]

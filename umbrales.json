@@ -1,0 +1,122 @@
+[
+    {
+        "rio_id":  "yaguachi",
+        "periodo_anios":  2,
+        "q_m3s":  2273.9
+    },
+    {
+        "rio_id":  "yaguachi",
+        "periodo_anios":  10,
+        "q_m3s":  2932.9
+    },
+    {
+        "rio_id":  "yaguachi",
+        "periodo_anios":  25,
+        "q_m3s":  3264.7
+    },
+    {
+        "rio_id":  "chimbo",
+        "periodo_anios":  2,
+        "q_m3s":  2197.1
+    },
+    {
+        "rio_id":  "chimbo",
+        "periodo_anios":  10,
+        "q_m3s":  2842.1
+    },
+    {
+        "rio_id":  "chimbo",
+        "periodo_anios":  25,
+        "q_m3s":  3166.7
+    },
+    {
+        "rio_id":  "babahoyo",
+        "periodo_anios":  2,
+        "q_m3s":  5402.1
+    },
+    {
+        "rio_id":  "babahoyo",
+        "periodo_anios":  10,
+        "q_m3s":  8563.8
+    },
+    {
+        "rio_id":  "babahoyo",
+        "periodo_anios":  25,
+        "q_m3s":  10155.1
+    },
+    {
+        "rio_id":  "milagro",
+        "periodo_anios":  2,
+        "q_m3s":  91.5
+    },
+    {
+        "rio_id":  "milagro",
+        "periodo_anios":  10,
+        "q_m3s":  132.9
+    },
+    {
+        "rio_id":  "milagro",
+        "periodo_anios":  25,
+        "q_m3s":  153.7
+    },
+    {
+        "rio_id":  "bulubulu",
+        "periodo_anios":  2,
+        "q_m3s":  336.6
+    },
+    {
+        "rio_id":  "bulubulu",
+        "periodo_anios":  10,
+        "q_m3s":  500.8
+    },
+    {
+        "rio_id":  "bulubulu",
+        "periodo_anios":  25,
+        "q_m3s":  583.5
+    },
+    {
+        "rio_id":  "boliche",
+        "periodo_anios":  2,
+        "q_m3s":  348.6
+    },
+    {
+        "rio_id":  "boliche",
+        "periodo_anios":  10,
+        "q_m3s":  519.4
+    },
+    {
+        "rio_id":  "boliche",
+        "periodo_anios":  25,
+        "q_m3s":  605.4
+    },
+    {
+        "rio_id":  "culebras",
+        "periodo_anios":  2,
+        "q_m3s":  113.1
+    },
+    {
+        "rio_id":  "culebras",
+        "periodo_anios":  10,
+        "q_m3s":  189.7
+    },
+    {
+        "rio_id":  "culebras",
+        "periodo_anios":  25,
+        "q_m3s":  228.2
+    },
+    {
+        "rio_id":  "payo",
+        "periodo_anios":  2,
+        "q_m3s":  26.1
+    },
+    {
+        "rio_id":  "payo",
+        "periodo_anios":  10,
+        "q_m3s":  40.8
+    },
+    {
+        "rio_id":  "payo",
+        "periodo_anios":  25,
+        "q_m3s":  48.1
+    }
+]
