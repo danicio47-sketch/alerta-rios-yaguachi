@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-05T13:22-05:00",
+ "generado": "2026-11-05T20:27-05:00",
  "resumen": {
   "nivel": "amarillo",
   "motivo": "El Río Milagro lleva o llevará esta semana tanta agua como una crecida común.",
@@ -7,8 +7,8 @@
   "n_rios": 7,
   "rio_critico": "Río Milagro",
   "pct_q2_max": 1.219,
-  "lluvia_24h_max": 46.0,
-  "lluvia_72h_max": 71.6
+  "lluvia_24h_max": 19.2,
+  "lluvia_72h_max": 71.2
  },
  "rios": [
   {
@@ -161,49 +161,49 @@
    "lugar": "cabecera",
    "ventana": "24h",
    "periodo": "ultimas",
-   "mm": 11.4
+   "mm": 5.7
   },
   {
    "lugar": "cuenca",
    "ventana": "24h",
    "periodo": "ultimas",
-   "mm": 23.9
+   "mm": 19.2
   },
   {
    "lugar": "cabecera",
    "ventana": "72h",
    "periodo": "ultimas",
-   "mm": 71.6
+   "mm": 71.1
   },
   {
    "lugar": "cuenca",
    "ventana": "72h",
    "periodo": "ultimas",
-   "mm": 67.3
+   "mm": 71.2
   },
   {
    "lugar": "cabecera",
    "ventana": "24h",
    "periodo": "proximas",
-   "mm": 37.8
+   "mm": 12.6
   },
   {
    "lugar": "cuenca",
    "ventana": "24h",
    "periodo": "proximas",
-   "mm": 46.0
+   "mm": 7.8
   },
   {
    "lugar": "cabecera",
    "ventana": "72h",
    "periodo": "proximas",
-   "mm": 53.6
+   "mm": 49.4
   },
   {
    "lugar": "cuenca",
    "ventana": "72h",
    "periodo": "proximas",
-   "mm": 70.1
+   "mm": 32.9
   }
  ]
 }
