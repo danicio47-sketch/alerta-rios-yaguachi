@@ -1,0 +1,209 @@
+{
+ "generado": "2026-11-06T12:43-05:00",
+ "resumen": {
+  "nivel": "amarillo",
+  "motivo": "El Río Culebras lleva o llevará esta semana tanta agua como una crecida común.",
+  "rios_alerta": 3,
+  "n_rios": 7,
+  "rio_critico": "Río Culebras",
+  "pct_q2_max": 1.04,
+  "lluvia_24h_max": 32.0,
+  "lluvia_72h_max": 60.8
+ },
+ "rios": [
+  {
+   "rio_id": "yaguachi",
+   "nombre": "Río Yaguachi",
+   "fiable": true,
+   "lat": -2.125,
+   "lon": -79.725,
+   "q_hoy": 1558.5,
+   "q_max7": 1573.0,
+   "fecha_max7": "2026-11-07",
+   "q_3d": 1134.0,
+   "tendencia": "bajando",
+   "q2": 2273.9,
+   "q10": 2932.9,
+   "q25": 3264.7,
+   "pct_q2": 0.692,
+   "nivel": "verde",
+   "nota": "Cauce del Yaguachi junto a la cabecera, aguas abajo de la union Chimbo-Milagro; su media iguala Chimbo + Milagro."
+  },
+  {
+   "rio_id": "chimbo",
+   "nombre": "Río Chimbo",
+   "fiable": true,
+   "lat": -2.175,
+   "lon": -79.675,
+   "q_hoy": 1461.2,
+   "q_max7": 1491.8,
+   "fecha_max7": "2026-11-07",
+   "q_3d": 1070.5,
+   "tendencia": "bajando",
+   "q2": 2197.1,
+   "q10": 2842.1,
+   "q25": 3166.7,
+   "pct_q2": 0.679,
+   "nivel": "verde",
+   "nota": "Chimbo en Yaguachi Viejo - Vuelta Larga, antes de recibir al Milagro; las celdas aguas arriba hasta Payo dan la misma media."
+  },
+  {
+   "rio_id": "babahoyo",
+   "nombre": "Río Babahoyo",
+   "fiable": true,
+   "lat": -1.975,
+   "lon": -79.775,
+   "q_hoy": 4851.9,
+   "q_max7": 4507.2,
+   "fecha_max7": "2026-11-07",
+   "q_3d": 3110.7,
+   "tendencia": "bajando",
+   "q2": 5402.1,
+   "q10": 8563.8,
+   "q25": 10155.1,
+   "pct_q2": 0.898,
+   "nivel": "verde",
+   "nota": "Babahoyo en el limite norte con Samborondon, aguas arriba de la confluencia con el Yaguachi (aguas abajo la celda sube a ~2.190 m3/s de media 2020-24)."
+  },
+  {
+   "rio_id": "milagro",
+   "nombre": "Río Milagro",
+   "fiable": true,
+   "lat": -2.125,
+   "lon": -79.675,
+   "q_hoy": 83.1,
+   "q_max7": 65.5,
+   "fecha_max7": "2026-11-07",
+   "q_3d": 48.7,
+   "tendencia": "bajando",
+   "q2": 91.5,
+   "q10": 132.9,
+   "q25": 153.7,
+   "pct_q2": 0.908,
+   "nivel": "verde",
+   "nota": "Milagro en Condor (Km 25), entrada al canton; es la celda de mayor caudal del tramo y su aporte cuadra con Yaguachi - Chimbo. Rio chico para 5 km: usar con cautela."
+  },
+  {
+   "rio_id": "bulubulu",
+   "nombre": "Río Bulubulu",
+   "fiable": true,
+   "lat": -2.275,
+   "lon": -79.625,
+   "q_hoy": 337.1,
+   "q_max7": 282.1,
+   "fecha_max7": "2026-11-07",
+   "q_3d": 189.1,
+   "tendencia": "bajando",
+   "q2": 336.6,
+   "q10": 500.8,
+   "q25": 583.5,
+   "pct_q2": 1.001,
+   "nivel": "amarillo",
+   "nota": "Bulubulu en Boliche (Gral. Pedro J. Montero); en GloFAS es el mismo cauce que sigue como Boliche, no es independiente de ese punto."
+  },
+  {
+   "rio_id": "boliche",
+   "nombre": "Río Boliche",
+   "fiable": true,
+   "lat": -2.275,
+   "lon": -79.725,
+   "q_hoy": 357.1,
+   "q_max7": 303.8,
+   "fecha_max7": "2026-11-07",
+   "q_3d": 206.0,
+   "tendencia": "bajando",
+   "q2": 348.6,
+   "q10": 519.4,
+   "q25": 605.4,
+   "pct_q2": 1.024,
+   "nivel": "amarillo",
+   "nota": "Boliche en el limite sur (sector Culebras), antes de recibir al Culebras; es el curso bajo del Bulubulu en el modelo."
+  },
+  {
+   "rio_id": "culebras",
+   "nombre": "Río Culebras",
+   "fiable": true,
+   "lat": -2.325,
+   "lon": -79.675,
+   "q_hoy": 117.6,
+   "q_max7": 98.5,
+   "fecha_max7": "2026-11-07",
+   "q_3d": 68.5,
+   "tendencia": "bajando",
+   "q2": 113.1,
+   "q10": 189.7,
+   "q25": 228.2,
+   "pct_q2": 1.04,
+   "nivel": "amarillo",
+   "nota": "Culebras en el limite sur, fila de celdas -2,325 con 20-23 m3/s continuos que entran al Boliche en -2,325/-79,775, donde esta la confluencia real (-2,309/-79,732). Sin punto de control previo."
+  },
+  {
+   "rio_id": "payo",
+   "nombre": "Río Payo",
+   "fiable": false,
+   "lat": -2.275,
+   "lon": -79.525,
+   "q_hoy": 20.8,
+   "q_max7": 19.7,
+   "fecha_max7": "2026-11-07",
+   "q_3d": 14.0,
+   "tendencia": "bajando",
+   "q2": 26.1,
+   "q10": 40.8,
+   "q25": 48.1,
+   "pct_q2": 0.797,
+   "nivel": "sin dato fiable",
+   "nota": "Payo (11,8 km, limite este): la celda da ~5 m3/s de media, menos que cualquier vecina con cauce; a 5 km GloFAS no resuelve un rio de este tamano y la celda puede ser drenaje generico. No usar para decisiones."
+  }
+ ],
+ "lluvia_acumulada": [
+  {
+   "lugar": "cabecera",
+   "ventana": "24h",
+   "periodo": "ultimas",
+   "mm": 4.1
+  },
+  {
+   "lugar": "cuenca",
+   "ventana": "24h",
+   "periodo": "ultimas",
+   "mm": 13.0
+  },
+  {
+   "lugar": "cabecera",
+   "ventana": "72h",
+   "periodo": "ultimas",
+   "mm": 49.3
+  },
+  {
+   "lugar": "cuenca",
+   "ventana": "72h",
+   "periodo": "ultimas",
+   "mm": 60.8
+  },
+  {
+   "lugar": "cabecera",
+   "ventana": "24h",
+   "periodo": "proximas",
+   "mm": 30.0
+  },
+  {
+   "lugar": "cuenca",
+   "ventana": "24h",
+   "periodo": "proximas",
+   "mm": 32.0
+  },
+  {
+   "lugar": "cabecera",
+   "ventana": "72h",
+   "periodo": "proximas",
+   "mm": 32.0
+  },
+  {
+   "lugar": "cuenca",
+   "ventana": "72h",
+   "periodo": "proximas",
+   "mm": 37.5
+  }
+ ]
+}
