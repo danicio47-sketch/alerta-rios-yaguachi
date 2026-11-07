@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-06T12:43-05:00",
+ "generado": "2026-11-06T19:48-05:00",
  "resumen": {
   "nivel": "amarillo",
   "motivo": "El Río Culebras lleva o llevará esta semana tanta agua como una crecida común.",
@@ -7,8 +7,8 @@
   "n_rios": 7,
   "rio_critico": "Río Culebras",
   "pct_q2_max": 1.04,
-  "lluvia_24h_max": 32.0,
-  "lluvia_72h_max": 60.8
+  "lluvia_24h_max": 28.7,
+  "lluvia_72h_max": 68.4
  },
  "rios": [
   {
@@ -161,49 +161,49 @@
    "lugar": "cabecera",
    "ventana": "24h",
    "periodo": "ultimas",
-   "mm": 4.1
+   "mm": 8.4
   },
   {
    "lugar": "cuenca",
    "ventana": "24h",
    "periodo": "ultimas",
-   "mm": 13.0
+   "mm": 16.7
   },
   {
    "lugar": "cabecera",
    "ventana": "72h",
    "periodo": "ultimas",
-   "mm": 49.3
+   "mm": 55.5
   },
   {
    "lugar": "cuenca",
    "ventana": "72h",
    "periodo": "ultimas",
-   "mm": 60.8
+   "mm": 68.4
   },
   {
    "lugar": "cabecera",
    "ventana": "24h",
    "periodo": "proximas",
-   "mm": 30.0
+   "mm": 26.4
   },
   {
    "lugar": "cuenca",
    "ventana": "24h",
    "periodo": "proximas",
-   "mm": 32.0
+   "mm": 28.7
   },
   {
    "lugar": "cabecera",
    "ventana": "72h",
    "periodo": "proximas",
-   "mm": 32.0
+   "mm": 33.7
   },
   {
    "lugar": "cuenca",
    "ventana": "72h",
    "periodo": "proximas",
-   "mm": 37.5
+   "mm": 37.3
   }
  ]
 }
